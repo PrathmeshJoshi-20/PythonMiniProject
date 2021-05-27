@@ -6,3 +6,7 @@ Write the Python code to retrieve the table contents and count the number of cus
 credit card loan. Also count the number of customers who have not availed any loan.
 
 Assist the bank management to learn the loan trends by using a pie chart to represent the percentage of each count including the count without any loan. 
+
+
+Created by :- Yash Pokarna 
+              Prathmesh Joshi
